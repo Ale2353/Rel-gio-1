@@ -1,0 +1,57 @@
+
+
+body{
+    background-image: url(https://img1.picmix.com/output/stamp/normal/3/8/6/0/1700683_4aae5.gif );
+    background-size: cover;
+    text-align: center;
+    font-size: 40px;
+    padding: 100px;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+}
+    
+div {
+    font-size: 80px;
+    font-family: 'Press Start 2P', cursive;
+    border-radius: 30px;
+    padding: 25px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+    
+.nome {
+    color: black;
+    
+}
+
+.git{
+    color: darkgoldenrod;
+}
+
+a:hover{
+    color:darkgoldenrod ;
+}
+
+a{
+    color: black;
+}
+
+.logo {
+    width: 72px;
+    height: 72px;
+    margin: 10px 60px;
+    transform-style: preserve-3d;
+    animation: rotate360 10s infinito para frente linear;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    font-family: 'Righteous', cursive;
+}
